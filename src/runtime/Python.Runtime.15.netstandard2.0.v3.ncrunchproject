@@ -1,5 +1,8 @@
 ﻿<ProjectConfiguration>
   <Settings>
+    <IgnoredTests>
+      <AllTestsSelector />
+    </IgnoredTests>
     <UseBuildConfiguration>DebugWinPY3</UseBuildConfiguration>
   </Settings>
 </ProjectConfiguration>
